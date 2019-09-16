@@ -2,7 +2,7 @@ package com.Myexp;
 import java.util.Scanner;
 
 abstract class Employee {
-	String name;         //����
+	String name;         //
 	int age;             //����
 	String position;     //ְ��
 	double salary;       //����
